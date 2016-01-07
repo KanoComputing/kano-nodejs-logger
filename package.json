@@ -1,0 +1,24 @@
+{
+  "name": "kano-nodejs-logger",
+  "version": "1.0.0",
+  "description": "Bunyan based module to log Kano style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KanoComputing/kano-nodejs-logger.git"
+  },
+  "author": "Kano Computing Ltd. (Paul Varache)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KanoComputing/kano-nodejs-logger/issues"
+  },
+  "homepage": "https://github.com/KanoComputing/kano-nodejs-logger",
+  "dependencies": {
+    "bunyan": "^1.5.1",
+    "colors": "^1.1.2",
+    "deep-extend": "^0.4.0"
+  }
+}
